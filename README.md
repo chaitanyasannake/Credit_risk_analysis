@@ -74,9 +74,6 @@ XGBOOST outperformed all the other algorithms and also was great in capturing Fa
 
 The ANN performed reasonably well too with an AUC of 0.87 as compared to 0.91 from XGBOOST, also the number of false negatives were higher using this model.
 
-[Model Comparison ](https://www.notion.so/6d019d4624fe4499b0864fcf843d865f)
-
-
 | Model Description | Sampling Method | AUC | 
 | --- | --- | --- |
 | LOGISTIC REGRESSSION VANILA | No Sampling | 0.50 |
