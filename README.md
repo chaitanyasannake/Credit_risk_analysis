@@ -68,11 +68,6 @@ def normalize(subset):
 - scoring: "f1" pr "accuracy"
 - scale_pos_weight parameter impose greater penalties for errors on the minor class
 
-<img src="https://github.com/ankit-kothari/data_science_journey/blob/master/github_images/cr7.png" width="80%">
-### Modeling in Keras for Binary Classification  Using Under Sampling
-
-<img src="https://github.com/ankit-kothari/data_science_journey/blob/master/github_images/cr8.png" width="80%">
-
 ## Model  Performance
 
 XGBOOST outperformed all the other algorithms and also was great in capturing False negatives with only 6 in a dataset of 20000 samples used for validation while also controling the False positives which were 2071. This model is great in detecting potential bad loans.
